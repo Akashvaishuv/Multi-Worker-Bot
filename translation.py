@@ -7,11 +7,11 @@ Welcome To Telegram Uploader Bot
 ☛ /help For More Details..."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 Contact @Ankith_m </b>  /help for Details"
+    UPGRADE_TEXT = "<b>👉 Contact @Wizard09 </b>  /help for Details"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
-    NOYES_URL = "@NGY_BOTS URL detected. Please use https://NGY_BOTS and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    NOYES_URL = "@Super_botz URL detected. Please use https://NGY_BOTS and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "📥 trying to download Dude 📥"
     UPLOAD_START = "📥 trying to upload To TG Dude📥"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size. Neverthless, trying to upload."
